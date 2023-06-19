@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="com.olf.openjvs.eclipse.OPENJVS_CONTAINER"/>
+	<classpathentry kind="con" path="com.olf.openjvs.eclipse.OPENJVS_CONTAINER/REFERENCES"/>
+	<classpathentry kind="con" path="com.olf.openjvs.eclipse.OPENJVS_CONTAINER/USER"/>
+	<classpathentry kind="lib" path="C:/OpenLink/Endur_V23_0_12132022_1019/bin/otk/openjvs/lib/olf_openjvs.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/OpenLink/Endur_V23_0_12132022_1019/bin/otk/openjvs/lib/../docs/olf_openjvs_docs.jar!/javadocs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="build"/>
+</classpath>
